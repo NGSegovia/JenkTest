@@ -1,0 +1,2 @@
+testme:
+	py.test test
